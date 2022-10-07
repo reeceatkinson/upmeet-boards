@@ -3,6 +3,10 @@ html,
   box-sizing: border-box;
 }
 
+:root {
+  --colors-selected: #5143F4;
+}
+
 body {
   overscroll-behavior: none;
   margin: 0px;
