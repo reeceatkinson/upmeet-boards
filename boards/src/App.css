@@ -3,8 +3,8 @@ html,
   box-sizing: border-box;
 }
 
-:root {
-  --colors-selected: #5143F4;
+:root, .t-fZvcYw{
+  --colors-selected: #5143F4 !important;
 }
 
 body {
