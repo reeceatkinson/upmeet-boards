@@ -38,6 +38,11 @@ body {
   display: none !important;
 }
 
+#TD-Link-discord {
+  display: none !important;
+}
+
+
 #TD-Link-become.a.sponsor {
   display: none !important;
 }
