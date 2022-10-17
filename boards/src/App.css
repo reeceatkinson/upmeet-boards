@@ -30,6 +30,21 @@ body {
   display: none !important;
 }
 
+#TD-Link-github {
+    display: none !important;
+}
+
+#TD-Link-twitter
+  display: none !important;
+}
+
+#TD-Link-become.a.sponsor
+  display: none !important;
+}
+
+
+
+
 .hero {
   width: 100%;
   max-width: 720px;
